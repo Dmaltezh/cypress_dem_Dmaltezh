@@ -1,0 +1,22 @@
+{
+  "name": "cypress_dem_dmaltezh",
+  "version": "0.0.0",
+  "description": "cypress_demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dmaltezh/cypress_dem_Dmaltezh.git"
+  },
+  "author": "Dmitry Tsezhyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dmaltezh/cypress_dem_Dmaltezh/issues"
+  },
+  "homepage": "https://github.com/Dmaltezh/cypress_dem_Dmaltezh#readme",
+  "devDependencies": {
+    "cypress": "^13.4.0"
+  }
+}
